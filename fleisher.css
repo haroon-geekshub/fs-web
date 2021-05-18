@@ -13,13 +13,15 @@
 	padding-top: 20px;
 	color: #0067b2;
 }
+.header-1 {
+	align-items: center;
+    padding: 10px 0px 10px 0px;
+}
 #Logo {
 	font-size: 2rem;
-	/*margin-top: 12px;*/
+	
 }
 .menu{
-	/*display: flex;
-	justify-content: flex-end;*/
 	font-size: 14px;
     font-weight: 400;
 	list-style: none;
@@ -40,6 +42,9 @@
 
 .main-div {
 	background-color: #f4f9fc;
+}
+.main-div-1 {
+	width: 100%;
 }
 .border {
 	border: 1px solid white;
